@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="DateeParserTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2022-08-27T13:28:15" hostname="MacBook-Air-Vasyl.local" time="0.007">
+  <properties/>
+  <testcase name="check6Format()" classname="DateeParserTest" time="0.005"/>
+  <testcase name="check1_5Formats()" classname="DateeParserTest" time="0.0"/>
+  <testcase name="check7Format()" classname="DateeParserTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
